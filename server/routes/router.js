@@ -1,7 +1,7 @@
 const express = require('express');
 const route = express.Router()
 
-const services = require('./services/render.js');
+const services = require('../services/render');
 
 
 /**
